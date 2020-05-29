@@ -15,5 +15,5 @@ CSRF 2
 
 
 # Video
-<img src='https://i.imgur.com/iqvU5hr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/tFvD846.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
